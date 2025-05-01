@@ -36,7 +36,7 @@ def generate_launch_description():
                 "odom_frame": "odom",
                 "base_frame": "base_link",
                 "lidar_frame": "base_link",
-                "prior_pcd_file": "/home/hyz/project/quadruped_lidar_relocalization_ws/src/small_gicp_relocalization/pcd/work_station.pcd",
+                "prior_pcd_file": "",
             }
         ],
     )
